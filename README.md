@@ -8,11 +8,14 @@
 
 🗂️ Repos  
 - [Social microblogging network](https://github.com/sldmxm/yatube_final) + [API](https://github.com/sldmxm/api_final_yatube)  
-  Django MVT project + REST API
-- [FastAPI application for Charity Fund](https://github.com/sldmxm/cat_charity_fund)
-- [Telegram bot for wildberries](https://github.com/sldmxm/wildberries_bot_private)  
-  Telegram-bot with parser on Django
-- [Service for recipe sharing social network](https://github.com/sldmxm/foodgram-project-react)
+  Django, DRF, Unittest, PostgreSQL, Gunicorn, nginx
+- [FastAPI application for Charity Fund](https://github.com/sldmxm/cat_charity_fund)  
+  FastAPI, SQLAlchemy, Alembic 
+- [Telegram bot with parser for wildberries](https://github.com/sldmxm/wildberries_bot_private)  
+  Django, Python-telegram-bot, Celery, Docker
+- [Service for recipe sharing social network](https://github.com/sldmxm/foodgram-project-react)  
+  DRF, PostgreSQL, Docker, nginx, GitHub Actions, React, Node
+
 
 
 📫 How to reach me:  
