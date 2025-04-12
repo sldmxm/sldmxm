@@ -9,23 +9,7 @@
 
 💼 My career has been marked by a commitment to delivering high-quality software that meets business objectives. I'm passionate about leveraging technology to optimize processes, drive efficiency, and create value.
 
-🌐 Feel free to explore my repositories to see some of my projects and contributions. I'm always eager to collaborate and learn from fellow developers, so don't hesitate to reach out. Let's code, innovate, and make a difference together!
-
-🗂️ Repos  
-- [Discount card storage service](https://github.com/Online-discount-card-service/osdc_backend/)  
-  Django, DRF, Unittest, PostgreSQL, Gunicorn, nginx, docker, githab actions, sendgrid
-- [Candidate matching service for recruitment vacancies (2 weeks hackathon)](https://github.com/sldmxm/CT-hackathon-backend)  
-  Django, DRF, Factory-boy, Unittest, PostgreSQL, Gunicorn, nginx, docker, githab actions
-- [Social microblogging network](https://github.com/sldmxm/yatube_final) + [API](https://github.com/sldmxm/api_final_yatube)  
-  Django, DRF, Unittest, PostgreSQL, Gunicorn, nginx
-- [FastAPI application for Charity Fund](https://github.com/sldmxm/cat_charity_fund)  
-  FastAPI, SQLAlchemy, Alembic 
-- [Telegram bot with parser for wildberries](https://github.com/sldmxm/wildberries_bot_private)  
-  Django, Python-telegram-bot, Celery, Docker
-- [Service for recipe sharing social network](https://github.com/sldmxm/foodgram-project-react)  
-  DRF, PostgreSQL, Docker, nginx, GitHub Actions, React, Node
-
-
+🌐 Feel free to explore my repositories to see some of my projects and contributions. I'm always eager to collaborate and learn from fellow developers, so don't hesitate to reach out.
 
 📫 How to reach me:  
 📩 [sldmxm@gmail.com](mailto:sldmxm@gmail.com)  
